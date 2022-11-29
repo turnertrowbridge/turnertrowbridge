@@ -4,7 +4,7 @@ Hi 👋 My name is Turner Trowbridge
 Computer Science Major
 ----------------------
 
-Experienced with Java, C++, and C#. Currently focused on Data Structures and Algorithms, Unity Game Development, and Cyber Security Competitions through NCL.
+Experienced with Java, C++, and C#. Currently focused on Data Structures and Algorithms.
 
 * 🌍  I'm based in San Diego, CA
 * ✉️  You can contact me at [turnertrowbridge@icloud.com](mailto:turnertrowbridge@icloud.com)
