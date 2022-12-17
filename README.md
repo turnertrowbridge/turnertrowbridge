@@ -6,7 +6,7 @@ Computer Science Major
 
 * 🌍  I'm based in San Diego, CA
 * ✉️  You can contact me at [turnertrowbridge@icloud.com](mailto:turnertrowbridge@icloud.com)
-* 🧠  I'm learning Data Structures & Algorithms and Computer Architecture
+* 🧠  I'm learning Algorithms, Operating Systems, and Software Engineering
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
@@ -16,6 +16,7 @@ Computer Science Major
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 </p>
 
@@ -33,3 +34,5 @@ Computer Science Major
 <a href="http://www.github.com/turnertrowbridge"><img src="https://github-readme-streak-stats.herokuapp.com/?user=turnertrowbridge&stroke=ffffff&background=0f172a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/turnertrowbridge"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=turnertrowbridge&bg_color=0f172a&color=ffffff&line=ffffff&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/turnertrowbridge" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turnertrowbridge&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
