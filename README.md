@@ -7,7 +7,6 @@ Computer Science Major
 * 🌍  I'm based in San Diego, CA
 * ✉️  You can contact me at [turnertrowbridge@icloud.com](mailto:turnertrowbridge@icloud.com)
 * 🧠  I'm learning Algorithms, Operating Systems, and Software Engineering
-* 🤝  I'm open to collaborating on Projects
 
 ### Skills
 
