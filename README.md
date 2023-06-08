@@ -23,7 +23,10 @@ Computer Science Major
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 
@@ -41,8 +44,12 @@ Computer Science Major
 
 <a href="http://www.github.com/turnertrowbridge"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=turnertrowbridge&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://github.com/turnertrowbridge" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turnertrowbridge&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/turnertrowbridge/Workout_AWS_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=turnertrowbridge&repo=Workout_AWS_Project&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/turnertrowbridge/Sudoku-Solver" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=turnertrowbridge&repo=Sudoku-Solver&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/turnertrowbridge/Operating_Systems" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=turnertrowbridge&repo=Operating_Systems&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/turnertrowbridge/Team1_2D-Platformer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=turnertrowbridge&repo=Team1_2D-Platformer&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
